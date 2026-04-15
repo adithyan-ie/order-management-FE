@@ -1,0 +1,11 @@
+{
+  "title": "Spaghetti Carbonara",
+  "description": "Classic Roman pasta dish",
+  "ingredients": "200g spaghetti\n100g pancetta\n2 eggs\n50g Pecorino Romano\nBlack pepper",
+  "instructions": "1. Cook pasta al dente\n2. Fry pancetta until crispy\n3. Mix eggs and cheese\n4. Combine off heat",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 2,
+  "category": "Dinner",
+  "difficulty": "Medium"
+}
